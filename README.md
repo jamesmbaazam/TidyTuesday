@@ -6,7 +6,7 @@ A repository to contain my tidy Tuesday submissions on twitter. This will also b
 2. Open a script and source it. Hopefully, it should run without errors.
 
 ## Dependencies
-Apart from using the latest versions of R [here](https://cran.r-project.org/bin/windows/base/) and R studio[here](https://rstudio.com/products/rstudio/download/), you may need the following packages:
+Apart from using the latest versions of [R](https://cran.r-project.org/bin/windows/base/) and [R studio](https://rstudio.com/products/rstudio/download/), you may need the following packages:
 1. The tidyverse packages for data wrangling and visualizations.
 2. Themes from `ggthemes`.
 3. Grid arrangement with `patchwork`, `gridExtra`.
